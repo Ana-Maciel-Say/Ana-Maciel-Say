@@ -39,7 +39,7 @@ Além do meu trabalho, sou apaixonada por:
 Aqui estão alguns projetos que desenvolvi e estou super empolgada para compartilhar:
 
 ### 🎤 [TOKYOKE] (EM DESENVOLVIMENTO)
-O Tokyoke é uma plataforma digital que permite aos clientes escolher e adicionar músicas a uma fila online, tornando a gestão de karaokês mais ágil e organizada. Inspirado em uma experiência real, o projeto surgiu para resolver a sobrecarga dos funcionários que ainda usam métodos manuais. Desenvolvido com HTML, CSS e JavaScript, o SingUp une diversão, tecnologia e praticidade, com potencial para aplicação no mercado real.
+O Tokyoke é uma plataforma digital que permite aos clientes escolher e adicionar músicas a uma fila online, tornando a gestão de karaokês mais ágil e organizada. Inspirado em uma experiência real, o projeto surgiu para resolver a sobrecarga dos funcionários que ainda usam métodos manuais. Desenvolvido com HTML, CSS e JavaScript, o Tokyoke une diversão, tecnologia e praticidade, com potencial para aplicação no mercado real.
 
 
 ---
