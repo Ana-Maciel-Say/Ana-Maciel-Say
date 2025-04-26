@@ -1,17 +1,17 @@
-# 👋 Olá, eu sou **[Seu Nome]**!
+# 👋 Olá, eu sou a **Ana**!
 
-Bem-vindo ao meu espaço! Sou um entusiasta de [área de interesse, como tecnologia, design, etc.], sempre em busca de novos desafios e aprendizados. Aqui você encontrará um pouco sobre minha trajetória, projetos e como entrar em contato comigo.
+Bem-vindo ao meu espaço! Sou um entusiasta de tecnologia, sempre em busca de novos desafios e aprendizados. Aqui você encontrará um pouco sobre minha trajetória, projetos e como entrar em contato comigo.
 
 ---
 
-## 🧑‍💻 Quem Sou Eu?
+## 🌸 Quem Sou Eu?
 
-Sou **[Seu Nome]**, [sua profissão ou principal atividade]. Tenho experiência em [descreva suas habilidades ou áreas de atuação] e estou sempre aberto a aprender mais. Ao longo da minha jornada, tive a oportunidade de trabalhar em projetos incríveis que me ajudaram a crescer profissionalmente.
+Sou a **Ana Maciel**, estudante do IFSP, em Análise e Desenvolvimento de Sistemas. Tenho experiência em Linguagem C, HTML, CSS e estou sempre aberta a aprender mais. Ao longo da minha jornada, tive a oportunidade de trabalhar em projetos incríveis que me ajudaram a crescer profissionalmente.
 
-- **Idade**: [Sua Idade]
-- **Localização**: [Sua Cidade/Estado, ou País]
-- **Formação**: [Sua Formação]
-- **Experiência**: [Anos de experiência ou campo de especialização]
+- **Idade**: 20 anos
+- **Localização**: Bragança Paulista
+- **Formação**: Estudante de Análise e Desenvolvimento de Sistemas
+- **Experiência**: 
 
 ---
 
@@ -19,49 +19,44 @@ Sou **[Seu Nome]**, [sua profissão ou principal atividade]. Tenho experiência 
 
 Essas são algumas das tecnologias e habilidades com as quais tenho experiência:
 
-- **[Habilidade 1]**: Descrição curta ou ferramenta que você usa.
-- **[Habilidade 2]**: Descrição curta ou ferramenta que você usa.
-- **[Habilidade 3]**: Descrição curta ou ferramenta que você usa.
-- **[Habilidade 4]**: Descrição curta ou ferramenta que você usa.
+- **Web development**: HTML, CSS, JAVASCRIPT.
+- **Back-End**: Linguagem C.
 
 ---
 
 ## 💡 Meus Interesses
 
-Além do meu trabalho, sou apaixonado por:
+Além do meu trabalho, sou apaixonada por:
 
-- **Interesse 1**: [Descrição curta ou sua relação com o interesse]
-- **Interesse 2**: [Descrição curta ou sua relação com o interesse]
-- **Interesse 3**: [Descrição curta ou sua relação com o interesse]
+- **Jogos**
+- **Esportes**
+- **Música**
 
 ---
 
 ## 📂 Projetos
 
-Aqui estão alguns projetos que desenvolvi e estou super empolgado para compartilhar:
+Aqui estão alguns projetos que desenvolvi e estou super empolgada para compartilhar:
 
-### 🚀 [Nome do Projeto 1](link-do-projeto)
-Uma breve descrição do projeto e sua relevância.
+### 🎤 [TOKYOKE] (EM DESENVOLVIMENTO)
+O Tokyoke é uma plataforma digital que permite aos clientes escolher e adicionar músicas a uma fila online, tornando a gestão de karaokês mais ágil e organizada. Inspirado em uma experiência real, o projeto surgiu para resolver a sobrecarga dos funcionários que ainda usam métodos manuais. Desenvolvido com HTML, CSS e JavaScript, o SingUp une diversão, tecnologia e praticidade, com potencial para aplicação no mercado real.
 
-### 🔧 [Nome do Projeto 2](link-do-projeto)
-Uma breve descrição do projeto e sua relevância.
 
 ---
 
 ## 📬 Vamos Conectar!
 
-Estou sempre aberto para novas conexões e colaborações. Você pode me encontrar nas redes sociais ou entrar em contato por e-mail:
+Estou sempre aberta para novas conexões e colaborações. Você pode me encontrar nas redes sociais ou entrar em contato por e-mail:
 
-- **E-mail**: [seuemail@example.com](mailto:seuemail@example.com)
-- **LinkedIn**: [seu-linkedin](https://www.linkedin.com/in/seu-linkedin)
+- **E-mail**: [ana.macielsay@gmail.com](mailto:ana.macielsay@gmail.com)
+- **LinkedIn**: [www.linkedin.com/in/anat-maciel](https://www.linkedin.com/in/anat-maciel)
 - **GitHub**: [seu-github](https://github.com/seu-github)
 
 ---
 
 ## 🎨 Um Pouco Sobre Meu Estilo
 
-Quando não estou codificando ou trabalhando, gosto de [hobby ou atividade], o que me ajuda a recarregar as energias e explorar minha criatividade. Acredito que o equilíbrio entre o trabalho e o lazer é essencial para o sucesso.
-
+Quando não estou codificando ou trabalhando, gosto de jogar, escutar música e praticar esportes o que me ajuda a recarregar as energias e explorar minha criatividade. 
 ---
 
 **Obrigado por visitar meu perfil!**  
