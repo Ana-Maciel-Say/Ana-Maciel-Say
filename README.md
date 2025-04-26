@@ -50,7 +50,7 @@ Estou sempre aberta para novas conexões e colaborações. Você pode me encontr
 
 - **E-mail**: [ana.macielsay@gmail.com](mailto:ana.macielsay@gmail.com)
 - **LinkedIn**: [www.linkedin.com/in/anat-maciel](https://www.linkedin.com/in/anat-maciel)
-- **GitHub**: [seu-github](https://github.com/seu-github)
+- **GitHub**: [https://github.com/Ana-Maciel-Say](https://github.com/Ana-Maciel-Say)
 
 ---
 
