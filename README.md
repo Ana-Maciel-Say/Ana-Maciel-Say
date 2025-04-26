@@ -1,16 +1,37 @@
-## Hi there 👋
+# Sobre Mim
 
-<!--
-**Ana-Maciel-Say/Ana-Maciel-Say** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é **[Seu Nome]**! Sou uma pessoa apaixonada por [área de interesse, como tecnologia, design, etc.]. Neste repositório, você encontrará mais sobre meu trabalho, interesses e projetos.
 
-Here are some ideas to get you started:
+## Quem Sou Eu?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eu sou [uma breve descrição sobre você]. Trabalho com [sua profissão ou atividades principais], e estou sempre buscando aprender novas habilidades e colaborar com outras pessoas.
+
+### Habilidades
+
+- Habilidade 1
+- Habilidade 2
+- Habilidade 3
+- Habilidade 4
+
+### Interesses
+
+- Interesse 1
+- Interesse 2
+- Interesse 3
+
+### Projetos
+
+Aqui estão alguns projetos em que estou trabalhando ou já trabalhei:
+
+- **[Nome do Projeto 1]**: Descrição breve do projeto.
+- **[Nome do Projeto 2]**: Descrição breve do projeto.
+
+## Contato
+
+Você pode me encontrar nas seguintes redes sociais ou formas de contato:
+
+- **E-mail**: [seuemail@example.com](mailto:seuemail@example.com)
+- **LinkedIn**: [seu-linkedin](https://www.linkedin.com/in/seu-linkedin)
+- **GitHub**: [seu-github](https://github.com/seu-github)
+
+Fique à vontade para entrar em contato!
